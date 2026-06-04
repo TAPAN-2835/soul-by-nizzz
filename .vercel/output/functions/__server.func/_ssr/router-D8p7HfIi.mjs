@@ -238,7 +238,7 @@ function ThemeSwitcher() {
   );
 }
 const logoUrl = "/assets/logo-D_ZI9e5e.jpeg";
-const p3Url = "/assets/p3-6OEHgyAc.jpeg";
+const p3Url = "/assets/p3-CkeG7N1t.jpeg";
 const cUrl = "/assets/c1-BPZZV6W0.jpeg";
 const dpUrl = "/assets/dp-LbYOb29w.jpeg";
 const familyUrl = "/assets/family-SXEI9GNu.jpeg";
@@ -531,7 +531,7 @@ function RootComponent() {
     /* @__PURE__ */ jsxRuntimeExports.jsx(Footer, {})
   ] }) });
 }
-const $$splitComponentImporter$1 = () => import("./gallery-CFd8nwMq.mjs");
+const $$splitComponentImporter$1 = () => import("./gallery-DPPgey0Q.mjs");
 const Route$1 = createFileRoute("/gallery")({
   head: () => ({
     meta: [{
@@ -556,7 +556,7 @@ const Route$1 = createFileRoute("/gallery")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-const $$splitComponentImporter = () => import("./index-OFWzZMR0.mjs");
+const $$splitComponentImporter = () => import("./index-DELN2OXB.mjs");
 const Route = createFileRoute("/")({
   head: () => ({
     meta: [{

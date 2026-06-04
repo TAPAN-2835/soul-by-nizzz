@@ -1,7 +1,7 @@
 import { j as jsxRuntimeExports, r as reactExports } from "../_libs/react.mjs";
 import { b as FiArrowRight, c as FiImage, d as FiCamera, e as FiEdit3, f as FiHeart, g as FiArrowUpRight, F as FiInstagram } from "../_libs/react-icons.mjs";
-import { p as p3Url, c as cUrl, f as familyUrl, d as dpUrl, I as INSTAGRAM_URL, a as collections, w as whyFeatures, b as faqs, t as testimonials } from "./router-B4wiJK9H.mjs";
-import { G as GalleryWall } from "./GalleryWall-D6jcunZw.mjs";
+import { p as p3Url, c as cUrl, f as familyUrl, d as dpUrl, I as INSTAGRAM_URL, a as collections, w as whyFeatures, b as faqs, t as testimonials } from "./router-D8p7HfIi.mjs";
+import { G as GalleryWall } from "./GalleryWall-Bl2FFgw_.mjs";
 import { R as Root2, I as Item, H as Header, T as Trigger2, C as Content2 } from "../_libs/radix-ui__react-accordion.mjs";
 import { c as clsx } from "../_libs/clsx.mjs";
 import { t as twMerge } from "../_libs/tailwind-merge.mjs";
