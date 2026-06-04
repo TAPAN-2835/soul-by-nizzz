@@ -1,0 +1,4 @@
+const tsrStartManifest = () => ({ routes: { __root__: { filePath: "C:/Users/Tapan/Downloads/soul-sketch-stories-main (1)/soul-sketch-stories-main/src/routes/__root.tsx", children: ["/", "/gallery"], preloads: ["/assets/index-BT0AHinl.js"], scripts: [{ attrs: { type: "module", async: true, src: "/assets/index-BT0AHinl.js" } }] }, "/": { filePath: "C:/Users/Tapan/Downloads/soul-sketch-stories-main (1)/soul-sketch-stories-main/src/routes/index.tsx", children: void 0, preloads: ["/assets/index-DNF7uzbM.js", "/assets/GalleryWall-Bheu7vJX.js"] }, "/gallery": { filePath: "C:/Users/Tapan/Downloads/soul-sketch-stories-main (1)/soul-sketch-stories-main/src/routes/gallery.tsx", children: void 0, preloads: ["/assets/gallery-BUAa1Ees.js", "/assets/GalleryWall-Bheu7vJX.js"] } } });
+export {
+  tsrStartManifest
+};
