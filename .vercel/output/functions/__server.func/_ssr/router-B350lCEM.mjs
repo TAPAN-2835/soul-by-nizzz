@@ -20,7 +20,7 @@ import "stream";
 import "../_libs/isbot.mjs";
 import "../_libs/motion-dom.mjs";
 import "../_libs/motion-utils.mjs";
-const appCss = "/assets/styles-B3FR2rl0.css";
+const appCss = "/assets/styles-GAcwhnjZ.css";
 function LenisProvider({ children }) {
   reactExports.useEffect(() => {
     if (typeof window === "undefined") return;
@@ -531,7 +531,7 @@ function RootComponent() {
     /* @__PURE__ */ jsxRuntimeExports.jsx(Footer, {})
   ] }) });
 }
-const $$splitComponentImporter$1 = () => import("./gallery-DPPgey0Q.mjs");
+const $$splitComponentImporter$1 = () => import("./gallery-CDqQ_kwZ.mjs");
 const Route$1 = createFileRoute("/gallery")({
   head: () => ({
     meta: [{
@@ -556,7 +556,7 @@ const Route$1 = createFileRoute("/gallery")({
   }),
   component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-const $$splitComponentImporter = () => import("./index-DELN2OXB.mjs");
+const $$splitComponentImporter = () => import("./index-IkheY7gV.mjs");
 const Route = createFileRoute("/")({
   head: () => ({
     meta: [{

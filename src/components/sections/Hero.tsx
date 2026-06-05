@@ -8,7 +8,7 @@ const floats = [
   { src: p3Url, top: "12%", left: "6%",  rot: -8,  w: 150, d: 0 },
   { src: cUrl, top: "22%", right: "8%", rot: 6,   w: 170, d: 0.15 },
   { src: familyUrl, top: "62%", left: "10%", rot: 7,   w: 140, d: 0.3 },
-  { src: dpUrl, top: "58%", right: "6%", rot: -10, w: 160, d: 0.45 },
+  { src: dpUrl,    top: "58%", right: "6%", rot: -10, w: 160, d: 0.45 },
 ];
 
 export function Hero() {

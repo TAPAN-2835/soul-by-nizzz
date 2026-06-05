@@ -1,4 +1,4 @@
-import { pUrl, p3Url, dpUrl, cUrl, cdpUrl, familyUrl, artGallery } from "@/lib/art-assets";
+import { pUrl, p3Url, dpUrl, cUrl, cdpUrl, familyUrl, artGallery, cp1Url, cp3Url, cc2Url, cfamilyUrl } from "@/lib/art-assets";
 
 export const INSTAGRAM_URL =
   "https://www.instagram.com/soul_by_nizz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==";
@@ -53,7 +53,7 @@ export const testimonials = [
 ] as const;
 
 export const galleryImages = artGallery;
-export { pUrl, p3Url, c2Url, dpUrl, cUrl, cdpUrl, familyUrl };
+export { pUrl, p3Url, dpUrl, cUrl, cdpUrl, familyUrl, cp1Url, cp3Url, cc2Url, cfamilyUrl };
 
 export const faqs = [
   {
